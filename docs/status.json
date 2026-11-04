@@ -1,5 +1,21 @@
 {
-  "updated_at": "2026-11-04T22:30:24+00:00",
+  "updated_at": "2026-11-04T22:59:30+00:00",
   "interval_minutes": 30,
-  "channels": []
+  "source": "somente fontes cadastradas pelo usuário",
+  "channels": [
+    {
+      "name": "TV Rio Sul HD",
+      "tvg_id": "TVRioSul.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://iptv.vivatele.com/live/viva_padrao/viva2384/1.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    }
+  ]
 }
