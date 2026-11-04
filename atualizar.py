@@ -11,7 +11,7 @@ SOURCES = ROOT / "sources.json"
 STATE = ROOT / "state.json"
 DOCS = ROOT / "docs"
 TIMEOUT = 12
-UA = "IPTV-Dinamica/3.0"
+UA = "IPTV-Dinamica/3.1"
 SECRET_KEYS = {"token", "access_token", "auth", "authorization", "signature", "sig", "jwt", "api_key", "apikey"}
 
 def read_json(path, default):
@@ -21,13 +21,8 @@ def read_json(path, default):
         return default
 
 def attr(line, key):
-    match = re.search(r'\\b' + re.escape(key) + r'="([^"]*)"', line, re.I)
+    match = re.search(r'\b' + re.escape(key) + r'="([^"]*)"', line, re.I)
     return match.group(1).strip() if match else ""
-
-def normalize(value):
-    value = unicodedata.normalize("NFKD", value or "")
-    value = "".join(c for c in value if not unicodedata.combining(c))
-    return re.sub(r"[^a-z0-9]+", " ", value.casefold()).strip()
 
 def safe_url(url):
     try:
@@ -50,7 +45,7 @@ def request_bytes(url, limit=65536):
 
 def parse_m3u(text):
     entries, meta, url = [], [], None
-    for raw in text.lstrip("\\ufeff").splitlines():
+    for raw in text.lstrip("\ufeff").splitlines():
         line = raw.strip()
         if not line:
             continue
@@ -84,8 +79,7 @@ def check(url):
             child = next((line.strip() for line in playlist.splitlines()
                           if line.strip() and not line.lstrip().startswith("#")), None)
             if child:
-                child_url = urljoin(url, child)
-                child_status, child_data = request_bytes(child_url, 8192)
+                child_status, child_data = request_bytes(urljoin(url, child), 8192)
                 if child_status not in (200, 206) or not child_data:
                     return False, None, f"Recurso HLS filho HTTP {child_status}"
         return True, round((time.monotonic() - started) * 1000), "OK"
@@ -153,14 +147,14 @@ def main():
 
     DOCS.mkdir(exist_ok=True)
     updated = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    (DOCS / "playlist.m3u").write_text("\\n".join(output) + "\\n", encoding="utf-8")
+    (DOCS / "playlist.m3u").write_text("\n".join(output) + "\n", encoding="utf-8")
     (DOCS / "status.json").write_text(json.dumps({
         "updated_at": updated,
         "interval_minutes": 30,
         "source": "somente fontes cadastradas pelo usuário",
         "channels": report
-    }, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
-    STATE.write_text(json.dumps(new_state, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
+    }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    STATE.write_text(json.dumps(new_state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (DOCS / "index.html").write_text(
         '<!doctype html><html lang="pt-BR"><meta charset="utf-8"><title>IPTV dinâmica</title>'
         '<body><h1>IPTV dinâmica</h1><p><a href="playlist.m3u">Playlist M3U</a></p>'
