@@ -1,4 +1,6 @@
 {
   "_comment": "Cadastre URLs alternativas autorizadas por nome exato do canal.",
-  "Nome exato do canal": []
+  "TV Rio Sul HD": [
+    "https://iptv.vivatele.com/live/viva_padrao/viva2384/1.m3u8"
+  ]
 }
