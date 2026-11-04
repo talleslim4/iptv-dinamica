@@ -22,7 +22,7 @@ def read_json(path, default):
         return default
 
 def attr(line, key):
-    match = re.search(r'\\b' + re.escape(key) + r'="([^"]*)"', line, re.I)
+    match = re.search(r'\b' + re.escape(key) + r'="([^"]*)"', line, re.I)
     return match.group(1).strip() if match else ""
 
 def normalize(value):
@@ -48,7 +48,7 @@ def request_bytes(url, limit=65536):
 
 def parse_m3u(text, allow_metadata_only=False):
     entries, meta, url = [], [], None
-    for raw in text.lstrip("\\ufeff").splitlines():
+    for raw in text.lstrip("\ufeff").splitlines():
         line = raw.strip()
         if not line:
             continue
@@ -174,14 +174,14 @@ def main():
 
     DOCS.mkdir(exist_ok=True)
     updated = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    (DOCS / "playlist.m3u").write_text("\\n".join(output) + "\\n", encoding="utf-8")
+    (DOCS / "playlist.m3u").write_text("\n".join(output) + "\n", encoding="utf-8")
     (DOCS / "status.json").write_text(json.dumps({
         "updated_at": updated,
         "interval_minutes": 30,
         "source": "iptv-org",
         "channels": report
-    }, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
-    STATE.write_text(json.dumps(new_state, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
+    }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    STATE.write_text(json.dumps(new_state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (DOCS / "index.html").write_text(
         '<!doctype html><html lang="pt-BR"><meta charset="utf-8"><title>IPTV dinâmica</title>'
         '<body><h1>IPTV dinâmica</h1><p><a href="playlist.m3u">Playlist M3U</a></p>'
