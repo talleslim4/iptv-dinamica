@@ -1,8 +1,1045 @@
 {
-  "updated_at": "2026-11-04T22:59:30+00:00",
+  "updated_at": "2026-11-04T23:07:53+00:00",
   "interval_minutes": 30,
-  "source": "somente fontes cadastradas pelo usuário",
+  "source": "IPTV-org Brasil + fontes alternativas cadastradas pelo usuário",
+  "upstream_error": null,
   "channels": [
+    {
+      "name": "RedeTV",
+      "tvg_id": "RedeTV.br",
+      "status": "online",
+      "selected_url": "http://45.162.64.114/REDE_TV/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://45.162.64.114/REDE_TV/index.m3u8",
+          "ok": true,
+          "latency_ms": 768,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "RedeTV Mais",
+      "tvg_id": "RedeTVMais.br",
+      "status": "online",
+      "selected_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 516,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "SBT Nacional",
+      "tvg_id": "SBT.br",
+      "status": "online",
+      "selected_url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+      "candidates": [
+        {
+          "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+          "ok": true,
+          "latency_ms": 435,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "SBT Interior",
+      "tvg_id": "SBT.br",
+      "status": "online",
+      "selected_url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 921,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Globo Brasília",
+      "tvg_id": "TVGloboBrasilia.br",
+      "status": "online",
+      "selected_url": "http://79.127.238.228:14173/",
+      "candidates": [
+        {
+          "url": "http://79.127.238.228:14173/",
+          "ok": true,
+          "latency_ms": 673,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Bahia",
+      "tvg_id": "TVBahia.br",
+      "status": "online",
+      "selected_url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+      "candidates": [
+        {
+          "url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+          "ok": true,
+          "latency_ms": 832,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Cultura",
+      "tvg_id": "TVCultura.br",
+      "status": "online",
+      "selected_url": "http://45.162.64.114/TV_CULTURA/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://45.162.64.114/TV_CULTURA/index.m3u8",
+          "ok": true,
+          "latency_ms": 770,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Brasil",
+      "tvg_id": "TVBrasil.br",
+      "status": "online",
+      "selected_url": "http://45.162.64.114/TV_BRASIL/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://45.162.64.114/TV_BRASIL/index.m3u8",
+          "ok": true,
+          "latency_ms": 769,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Brasil Oeste",
+      "tvg_id": "TVBrasilOeste.br",
+      "status": "online",
+      "selected_url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 2262,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Gazeta",
+      "tvg_id": "TVGazeta.br",
+      "status": "online",
+      "selected_url": "http://45.162.64.114/TV_GAZETA/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://45.162.64.114/TV_GAZETA/index.m3u8",
+          "ok": true,
+          "latency_ms": 770,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV A Crítica",
+      "tvg_id": "TVACritica.br",
+      "status": "online",
+      "selected_url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 216,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Arapuan",
+      "tvg_id": "TVArapuan.br",
+      "status": "online",
+      "selected_url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 910,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Cidade Verde",
+      "tvg_id": "TVCidadeVerdeCuiaba.br",
+      "status": "online",
+      "selected_url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
+      "candidates": [
+        {
+          "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
+          "ok": true,
+          "latency_ms": 1468,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Clube",
+      "tvg_id": "TVClube.br",
+      "status": "online",
+      "selected_url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 902,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TVE Bahia",
+      "tvg_id": "TVEBahia.br",
+      "status": "online",
+      "selected_url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 2880,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TVE RS",
+      "tvg_id": "TVERS.br",
+      "status": "online",
+      "selected_url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 2357,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Rede Minas",
+      "tvg_id": "RedeMinas.br",
+      "status": "online",
+      "selected_url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 2294,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Rede Brasil",
+      "tvg_id": "RedeBrasil.br",
+      "status": "online",
+      "selected_url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
+      "candidates": [
+        {
+          "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
+          "ok": true,
+          "latency_ms": 1150,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Rede Meio Norte",
+      "tvg_id": "RedeMeioNorte.br",
+      "status": "online",
+      "selected_url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8",
+      "candidates": [
+        {
+          "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8",
+          "ok": true,
+          "latency_ms": 2143,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Rede CNT RJ",
+      "tvg_id": "RedeCNT.br",
+      "status": "sem_fonte_configurada",
+      "selected_url": null,
+      "candidates": []
+    },
+    {
+      "name": "Rede CNT Salvador",
+      "tvg_id": "RedeCNT.br",
+      "status": "sem_fonte_configurada",
+      "selected_url": null,
+      "candidates": []
+    },
+    {
+      "name": "RecordTV Interior SP",
+      "tvg_id": "RecordTV.br",
+      "status": "online",
+      "selected_url": "http://200.77.176.130:8000/udp/224.0.0.4:49152",
+      "candidates": [
+        {
+          "url": "http://200.77.176.130:8000/udp/224.0.0.4:49152",
+          "ok": true,
+          "latency_ms": 882,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Aparecida",
+      "tvg_id": "TVAparecida.br",
+      "status": "online",
+      "selected_url": "http://45.162.64.114/TV_APARECIDA/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://45.162.64.114/TV_APARECIDA/index.m3u8",
+          "ok": true,
+          "latency_ms": 768,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Canal UOL",
+      "tvg_id": "CanalUOL.br",
+      "status": "online",
+      "selected_url": "https://video24.mais.uol.com.br/live/6146.m3u8",
+      "candidates": [
+        {
+          "url": "https://video24.mais.uol.com.br/live/6146.m3u8",
+          "ok": true,
+          "latency_ms": 1415,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "CNN Brasil",
+      "tvg_id": "CNNBrasil.br",
+      "status": "online",
+      "selected_url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+      "candidates": [
+        {
+          "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+          "ok": true,
+          "latency_ms": 603,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "GloboNews",
+      "tvg_id": "GloboNews.br",
+      "status": "online",
+      "selected_url": "http://79.127.238.228:14093",
+      "candidates": [
+        {
+          "url": "http://79.127.238.228:14093",
+          "ok": true,
+          "latency_ms": 700,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Jovem Pan News",
+      "tvg_id": "JovemPanNews.br",
+      "status": "online",
+      "selected_url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
+          "ok": true,
+          "latency_ms": 813,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Record News",
+      "tvg_id": "RecordNews.br",
+      "status": "online",
+      "selected_url": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
+          "ok": true,
+          "latency_ms": 771,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "SBT News",
+      "tvg_id": "SBTNews.br",
+      "status": "online",
+      "selected_url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8",
+      "candidates": [
+        {
+          "url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8",
+          "ok": true,
+          "latency_ms": 1051,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "BM&C News",
+      "tvg_id": "BMCNews.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Times Brasil",
+      "tvg_id": "TimesBrasil.br",
+      "status": "online",
+      "selected_url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 266,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Plena TV",
+      "tvg_id": "PlenaTV.br",
+      "status": "online",
+      "selected_url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 1912,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Brusque",
+      "tvg_id": "TVBrusque.br",
+      "status": "online",
+      "selected_url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 2426,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Zoom",
+      "tvg_id": "TVZoom.br",
+      "status": "online",
+      "selected_url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 1615,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "VEJA+ TV",
+      "tvg_id": "VEJAPlusTV.br",
+      "status": "online",
+      "selected_url": "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8",
+      "candidates": [
+        {
+          "url": "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8",
+          "ok": true,
+          "latency_ms": 270,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "STZ TV",
+      "tvg_id": "STZTV.br",
+      "status": "online",
+      "selected_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 665,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "CazéTV",
+      "tvg_id": "CazeTV.br",
+      "status": "online",
+      "selected_url": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 683,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "ESPN",
+      "tvg_id": "ESPN.br",
+      "status": "online",
+      "selected_url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
+          "ok": true,
+          "latency_ms": 571,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "ESPN 4",
+      "tvg_id": "ESPN4.br",
+      "status": "online",
+      "selected_url": "http://181.78.197.59:8000/play/a07n/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8",
+          "ok": true,
+          "latency_ms": 587,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "FIFA+",
+      "tvg_id": "FIFAPlus.br",
+      "status": "sem_fonte_configurada",
+      "selected_url": null,
+      "candidates": []
+    },
+    {
+      "name": "Red Bull TV",
+      "tvg_id": "RedBullTV.br",
+      "status": "online",
+      "selected_url": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 268,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Turma da Mônica",
+      "tvg_id": "TurmaDaMonica.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Nickelodeon",
+      "tvg_id": "Nickelodeon.br",
+      "status": "online",
+      "selected_url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+      "candidates": [
+        {
+          "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+          "ok": true,
+          "latency_ms": 501,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Nickelodeon Clássico",
+      "tvg_id": "NickelodeonClassico.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Nickelodeon Teen",
+      "tvg_id": "NickelodeonTeen.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Cartoon Network",
+      "tvg_id": "CartoonNetwork.br",
+      "status": "sem_fonte_configurada",
+      "selected_url": null,
+      "candidates": []
+    },
+    {
+      "name": "Pluto TV Junior",
+      "tvg_id": "PlutoTVJunior.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Pluto TV Kids",
+      "tvg_id": "PlutoTVKids.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Kids Club",
+      "tvg_id": "KidsClub.br",
+      "status": "sem_fonte_configurada",
+      "selected_url": null,
+      "candidates": []
+    },
+    {
+      "name": "Bob Esponja",
+      "tvg_id": "BobEsponja.br",
+      "status": "sem_fonte_configurada",
+      "selected_url": null,
+      "candidates": []
+    },
+    {
+      "name": "O Reino Infantil",
+      "tvg_id": "OReinoInfantil.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Pluto TV Cine Clássicos",
+      "tvg_id": "PlutoTVCineClassicos.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Pluto TV Cine Comédia Romântica",
+      "tvg_id": "PlutoTVCineComediaRomantica.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Pluto TV Cine Crime",
+      "tvg_id": "PlutoTVCineCrime.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Pluto TV Cine Drama",
+      "tvg_id": "PlutoTVCineDrama.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Pluto TV Cine Família",
+      "tvg_id": "PlutoTVCineFamilia.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Pluto TV Cine Romance",
+      "tvg_id": "PlutoTVCineRomance.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Pluto TV Cine Sucessos",
+      "tvg_id": "PlutoTVCineSucessos.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Pluto TV Filmes Nacionais",
+      "tvg_id": "PlutoTVFilmesNacionais.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "Netmovies",
+      "tvg_id": "Netmovies.br",
+      "status": "sem_fonte_configurada",
+      "selected_url": null,
+      "candidates": []
+    },
+    {
+      "name": "Novelas BR",
+      "tvg_id": "NovelasBR.br",
+      "status": "sem_fonte_configurada",
+      "selected_url": null,
+      "candidates": []
+    },
+    {
+      "name": "Pluto TV Séries Drama",
+      "tvg_id": "PlutoTVSeriesDrama.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "TNT Novelas",
+      "tvg_id": "TNTNovelas.br",
+      "status": "sem_fonte_configurada",
+      "selected_url": null,
+      "candidates": []
+    },
+    {
+      "name": "Sony Channel",
+      "tvg_id": "SonyChannel.br",
+      "status": "online",
+      "selected_url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
+          "ok": true,
+          "latency_ms": 739,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Sony Movies",
+      "tvg_id": "SonyMovies.br",
+      "status": "online",
+      "selected_url": "http://45.162.64.114/SONY_MOVIES/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8",
+          "ok": true,
+          "latency_ms": 769,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Studio Universal",
+      "tvg_id": "StudioUniversal.br",
+      "status": "sem_fonte_configurada",
+      "selected_url": null,
+      "candidates": []
+    },
+    {
+      "name": "Telecine Action",
+      "tvg_id": "TelecineAction.br",
+      "status": "online",
+      "selected_url": "http://46.151.196.223:14326/",
+      "candidates": [
+        {
+          "url": "http://46.151.196.223:14326/",
+          "ok": true,
+          "latency_ms": 191,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Canal Futura",
+      "tvg_id": "CanalFutura.br",
+      "status": "online",
+      "selected_url": "http://45.162.64.114/FUTURA/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://45.162.64.114/FUTURA/index.m3u8",
+          "ok": true,
+          "latency_ms": 770,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Futura",
+      "tvg_id": "Futura.br",
+      "status": "online",
+      "selected_url": "http://170.83.49.66:8083/FUTURAHD/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://170.83.49.66:8083/FUTURAHD/index.m3u8",
+          "ok": true,
+          "latency_ms": 814,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Arte 1",
+      "tvg_id": "Arte1.br",
+      "status": "online",
+      "selected_url": "http://45.162.64.114/ARTE1/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://45.162.64.114/ARTE1/index.m3u8",
+          "ok": true,
+          "latency_ms": 768,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Tastemade Brasil",
+      "tvg_id": "TastemadeBrasil.br",
+      "status": "offline",
+      "selected_url": null,
+      "candidates": [
+        {
+          "url": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8",
+          "ok": false,
+          "latency_ms": null,
+          "detail": "URL inválida ou com parâmetro de credencial"
+        }
+      ]
+    },
+    {
+      "name": "AgroMais",
+      "tvg_id": "AgroMais.br",
+      "status": "online",
+      "selected_url": "http://45.162.64.114/AGROMAIS/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://45.162.64.114/AGROMAIS/index.m3u8",
+          "ok": true,
+          "latency_ms": 769,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Canal Rural",
+      "tvg_id": "CanalRural.br",
+      "status": "online",
+      "selected_url": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8",
+          "ok": true,
+          "latency_ms": 827,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Terra Viva",
+      "tvg_id": "TerraViva.br",
+      "status": "online",
+      "selected_url": "http://45.162.64.114/TERRAVIVA/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://45.162.64.114/TERRAVIVA/index.m3u8",
+          "ok": true,
+          "latency_ms": 769,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Sat",
+      "tvg_id": "AmazonSat.br",
+      "status": "online",
+      "selected_url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+      "candidates": [
+        {
+          "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+          "ok": true,
+          "latency_ms": 1279,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Câmara",
+      "tvg_id": "TVCamara.br",
+      "status": "online",
+      "selected_url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+      "candidates": [
+        {
+          "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+          "ok": true,
+          "latency_ms": 2466,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Senado",
+      "tvg_id": "TVSenado.br",
+      "status": "online",
+      "selected_url": "http://45.162.64.114/TV_SENADO/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://45.162.64.114/TV_SENADO/index.m3u8",
+          "ok": true,
+          "latency_ms": 769,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV Justiça",
+      "tvg_id": "TVJustica.br",
+      "status": "online",
+      "selected_url": "http://45.162.64.114/TV_JUSTICA/index.m3u8",
+      "candidates": [
+        {
+          "url": "http://45.162.64.114/TV_JUSTICA/index.m3u8",
+          "ok": true,
+          "latency_ms": 768,
+          "detail": "OK"
+        }
+      ]
+    },
+    {
+      "name": "TV UFOP",
+      "tvg_id": "TVUFOP.br",
+      "status": "online",
+      "selected_url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+      "candidates": [
+        {
+          "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+          "ok": true,
+          "latency_ms": 1913,
+          "detail": "OK"
+        }
+      ]
+    },
     {
       "name": "TV Rio Sul HD",
       "tvg_id": "TVRioSul.br",
