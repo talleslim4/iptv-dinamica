@@ -1,6 +1,11 @@
 name: Atualizar playlist IPTV
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'input/canais.m3u'
+      - 'sources.json'
+      - 'atualizar.py'
   schedule:
     - cron: '7,37 * * * *'
 permissions:
