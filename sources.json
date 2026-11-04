@@ -1,5 +1,5 @@
 {
-  "_comment": "Cadastre URLs alternativas autorizadas por nome exato do canal.",
+  "_comment": "Fontes alternativas autorizadas por nome exato. O script também consulta a playlist pública IPTV-org Brasil.",
   "TV Rio Sul HD": [
     "https://iptv.vivatele.com/live/viva_padrao/viva2384/1.m3u8"
   ]
