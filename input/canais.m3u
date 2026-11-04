@@ -1,2 +1,81 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="RedeTV.br" group-title="Abertos e generalistas",RedeTV
+#EXTINF:-1 tvg-id="RedeTVMais.br" group-title="Abertos e generalistas",RedeTV Mais
+#EXTINF:-1 tvg-id="SBT.br" group-title="Abertos e generalistas",SBT Nacional
+#EXTINF:-1 tvg-id="SBT.br" group-title="Abertos e generalistas",SBT Interior
+#EXTINF:-1 tvg-id="TVGloboBrasilia.br" group-title="Abertos e generalistas",TV Globo Brasília
+#EXTINF:-1 tvg-id="TVBahia.br" group-title="Abertos e generalistas",TV Bahia
+#EXTINF:-1 tvg-id="TVCultura.br" group-title="Abertos e generalistas",TV Cultura
+#EXTINF:-1 tvg-id="TVBrasil.br" group-title="Abertos e generalistas",TV Brasil
+#EXTINF:-1 tvg-id="TVBrasilOeste.br" group-title="Abertos e generalistas",TV Brasil Oeste
+#EXTINF:-1 tvg-id="TVGazeta.br" group-title="Abertos e generalistas",TV Gazeta
+#EXTINF:-1 tvg-id="TVACritica.br" group-title="Abertos e generalistas",TV A Crítica
+#EXTINF:-1 tvg-id="TVArapuan.br" group-title="Abertos e generalistas",TV Arapuan
+#EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br" group-title="Abertos e generalistas",TV Cidade Verde
+#EXTINF:-1 tvg-id="TVClube.br" group-title="Abertos e generalistas",TV Clube
+#EXTINF:-1 tvg-id="TVEBahia.br" group-title="Abertos e generalistas",TVE Bahia
+#EXTINF:-1 tvg-id="TVERS.br" group-title="Abertos e generalistas",TVE RS
+#EXTINF:-1 tvg-id="RedeMinas.br" group-title="Abertos e generalistas",Rede Minas
+#EXTINF:-1 tvg-id="RedeBrasil.br" group-title="Abertos e generalistas",Rede Brasil
+#EXTINF:-1 tvg-id="RedeMeioNorte.br" group-title="Abertos e generalistas",Rede Meio Norte
+#EXTINF:-1 tvg-id="RedeCNT.br" group-title="Abertos e generalistas",Rede CNT RJ
+#EXTINF:-1 tvg-id="RedeCNT.br" group-title="Abertos e generalistas",Rede CNT Salvador
+#EXTINF:-1 tvg-id="RecordTV.br" group-title="Abertos e generalistas",RecordTV Interior SP
+#EXTINF:-1 tvg-id="TVAparecida.br" group-title="Abertos e generalistas",TV Aparecida
+#EXTINF:-1 tvg-id="CanalUOL.br" group-title="Abertos e generalistas",Canal UOL
+#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="Notícias",CNN Brasil
+#EXTINF:-1 tvg-id="GloboNews.br" group-title="Notícias",GloboNews
+#EXTINF:-1 tvg-id="JovemPanNews.br" group-title="Notícias",Jovem Pan News
+#EXTINF:-1 tvg-id="RecordNews.br" group-title="Notícias",Record News
+#EXTINF:-1 tvg-id="SBTNews.br" group-title="Notícias",SBT News
+#EXTINF:-1 tvg-id="BMCNews.br" group-title="Notícias",BM&C News
+#EXTINF:-1 tvg-id="TimesBrasil.br" group-title="Notícias",Times Brasil
+#EXTINF:-1 tvg-id="PlenaTV.br" group-title="Notícias",Plena TV
+#EXTINF:-1 tvg-id="TVBrusque.br" group-title="Notícias",TV Brusque
+#EXTINF:-1 tvg-id="TVZoom.br" group-title="Notícias",TV Zoom
+#EXTINF:-1 tvg-id="VEJAPlusTV.br" group-title="Notícias",VEJA+ TV
+#EXTINF:-1 tvg-id="STZTV.br" group-title="Notícias",STZ TV
+#EXTINF:-1 tvg-id="CazeTV.br" group-title="Esportes",CazéTV
+#EXTINF:-1 tvg-id="ESPN.br" group-title="Esportes",ESPN
+#EXTINF:-1 tvg-id="ESPN4.br" group-title="Esportes",ESPN 4
+#EXTINF:-1 tvg-id="FIFAPlus.br" group-title="Esportes",FIFA+
+#EXTINF:-1 tvg-id="RedBullTV.br" group-title="Esportes",Red Bull TV
+#EXTINF:-1 tvg-id="TurmaDaMonica.br" group-title="Infantil",Turma da Mônica
+#EXTINF:-1 tvg-id="Nickelodeon.br" group-title="Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="NickelodeonClassico.br" group-title="Infantil",Nickelodeon Clássico
+#EXTINF:-1 tvg-id="NickelodeonTeen.br" group-title="Infantil",Nickelodeon Teen
+#EXTINF:-1 tvg-id="CartoonNetwork.br" group-title="Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="PlutoTVJunior.br" group-title="Infantil",Pluto TV Junior
+#EXTINF:-1 tvg-id="PlutoTVKids.br" group-title="Infantil",Pluto TV Kids
+#EXTINF:-1 tvg-id="KidsClub.br" group-title="Infantil",Kids Club
+#EXTINF:-1 tvg-id="BobEsponja.br" group-title="Infantil",Bob Esponja
+#EXTINF:-1 tvg-id="OReinoInfantil.br" group-title="Infantil",O Reino Infantil
+#EXTINF:-1 tvg-id="PlutoTVCineClassicos.br" group-title="Filmes e séries",Pluto TV Cine Clássicos
+#EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica.br" group-title="Filmes e séries",Pluto TV Cine Comédia Romântica
+#EXTINF:-1 tvg-id="PlutoTVCineCrime.br" group-title="Filmes e séries",Pluto TV Cine Crime
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.br" group-title="Filmes e séries",Pluto TV Cine Drama
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.br" group-title="Filmes e séries",Pluto TV Cine Família
+#EXTINF:-1 tvg-id="PlutoTVCineRomance.br" group-title="Filmes e séries",Pluto TV Cine Romance
+#EXTINF:-1 tvg-id="PlutoTVCineSucessos.br" group-title="Filmes e séries",Pluto TV Cine Sucessos
+#EXTINF:-1 tvg-id="PlutoTVFilmesNacionais.br" group-title="Filmes e séries",Pluto TV Filmes Nacionais
+#EXTINF:-1 tvg-id="Netmovies.br" group-title="Filmes e séries",Netmovies
+#EXTINF:-1 tvg-id="NovelasBR.br" group-title="Filmes e séries",Novelas BR
+#EXTINF:-1 tvg-id="PlutoTVSeriesDrama.br" group-title="Filmes e séries",Pluto TV Séries Drama
+#EXTINF:-1 tvg-id="TNTNovelas.br" group-title="Filmes e séries",TNT Novelas
+#EXTINF:-1 tvg-id="SonyChannel.br" group-title="Filmes e séries",Sony Channel
+#EXTINF:-1 tvg-id="SonyMovies.br" group-title="Filmes e séries",Sony Movies
+#EXTINF:-1 tvg-id="StudioUniversal.br" group-title="Filmes e séries",Studio Universal
+#EXTINF:-1 tvg-id="TelecineAction.br" group-title="Filmes e séries",Telecine Action
+#EXTINF:-1 tvg-id="CanalFutura.br" group-title="Cultura e documentários",Canal Futura
+#EXTINF:-1 tvg-id="Futura.br" group-title="Cultura e documentários",Futura
+#EXTINF:-1 tvg-id="Arte1.br" group-title="Cultura e documentários",Arte 1
+#EXTINF:-1 tvg-id="TastemadeBrasil.br" group-title="Cultura e documentários",Tastemade Brasil
+#EXTINF:-1 tvg-id="AgroMais.br" group-title="Cultura e documentários",AgroMais
+#EXTINF:-1 tvg-id="CanalRural.br" group-title="Cultura e documentários",Canal Rural
+#EXTINF:-1 tvg-id="TerraViva.br" group-title="Cultura e documentários",Terra Viva
+#EXTINF:-1 tvg-id="AmazonSat.br" group-title="Cultura e documentários",Amazon Sat
+#EXTINF:-1 tvg-id="TVCamara.br" group-title="Cultura e documentários",TV Câmara
+#EXTINF:-1 tvg-id="TVSenado.br" group-title="Cultura e documentários",TV Senado
+#EXTINF:-1 tvg-id="TVJustica.br" group-title="Cultura e documentários",TV Justiça
+#EXTINF:-1 tvg-id="TVUFOP.br" group-title="Cultura e documentários",TV UFOP
 #EXTINF:-1 tvg-id="TVRioSul.br" group-title="Abertos e generalistas",TV Rio Sul HD
