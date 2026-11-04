@@ -1,0 +1,30 @@
+name: Atualizar playlist IPTV
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7,37 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: atualizar-playlist
+  cancel-in-progress: false
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verificar fontes e gerar playlist
+        run: python atualizar.py
+      - name: Salvar resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/ state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza playlist IPTV"
+            git push
+          fi
