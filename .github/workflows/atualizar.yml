@@ -23,7 +23,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/ state.json
+          git add docs/
+          if [ -f state.json ]; then git add -f state.json; fi
           if ! git diff --cached --quiet; then
             git commit -m "Atualiza playlist IPTV"
             git push
