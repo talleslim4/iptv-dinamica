@@ -34,6 +34,7 @@ https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br" group-title="Abertos e generalistas",Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" group-title="Abertos e generalistas",Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeMeioNorte.br" group-title="Abertos e generalistas",Rede Meio Norte
 https://maystreaming.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNT.br" group-title="Abertos e generalistas",Rede CNT RJ
@@ -49,7 +50,6 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br" group-title="Notícias",GloboNews
 http://79.127.238.228:14093
 #EXTINF:-1 tvg-id="JovemPanNews.br" group-title="Notícias",Jovem Pan News
-http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" group-title="Notícias",Record News
 http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="SBTNews.br" group-title="Notícias",SBT News
@@ -100,7 +100,6 @@ https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriesDrama.br" group-title="Filmes e séries",Pluto TV Séries Drama
 #EXTINF:-1 tvg-id="TNTNovelas.br" group-title="Filmes e séries",TNT Novelas
 #EXTINF:-1 tvg-id="SonyChannel.br" group-title="Filmes e séries",Sony Channel
-http://170.83.16.50/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" group-title="Filmes e séries",Sony Movies
 http://45.162.64.114/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.br" group-title="Filmes e séries",Studio Universal
