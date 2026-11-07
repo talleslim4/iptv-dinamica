@@ -23,14 +23,18 @@
   "7:TV Brasil": {
     "last_good": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
-  "8:TV Brasil Oeste": {},
+  "8:TV Brasil Oeste": {
+    "last_good": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
   "9:TV Gazeta": {
     "last_good": "http://45.162.64.114/TV_GAZETA/index.m3u8"
   },
   "10:TV A Crítica": {
     "last_good": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
   },
-  "11:TV Arapuan": {},
+  "11:TV Arapuan": {
+    "last_good": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+  },
   "12:TV Cidade Verde": {
     "last_good": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8"
   },
@@ -46,9 +50,7 @@
   "16:Rede Minas": {
     "last_good": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
   },
-  "17:Rede Brasil": {
-    "last_good": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
-  },
+  "17:Rede Brasil": {},
   "18:Rede Meio Norte": {
     "last_good": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
   },
