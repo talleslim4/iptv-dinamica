@@ -23,7 +23,9 @@
   "7:TV Brasil": {
     "last_good": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
-  "8:TV Brasil Oeste": {},
+  "8:TV Brasil Oeste": {
+    "last_good": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
   "9:TV Gazeta": {
     "last_good": "http://45.162.64.114/TV_GAZETA/index.m3u8"
   },
@@ -82,7 +84,9 @@
   "30:Times Brasil": {
     "last_good": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
   },
-  "31:Plena TV": {},
+  "31:Plena TV": {
+    "last_good": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
+  },
   "32:TV Brusque": {
     "last_good": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
   },
