@@ -8,7 +8,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 #EXTINF:-1 tvg-id="SBT.br" group-title="Abertos e generalistas",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGloboBrasilia.br" group-title="Abertos e generalistas",TV Globo Brasília
-http://79.127.238.228:14173
 #EXTINF:-1 tvg-id="TVBahia.br" group-title="Abertos e generalistas",TV Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" group-title="Abertos e generalistas",TV Cultura
@@ -16,6 +15,7 @@ http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" group-title="Abertos e generalistas",TV Brasil
 http://45.162.64.114/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasilOeste.br" group-title="Abertos e generalistas",TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" group-title="Abertos e generalistas",TV Gazeta
 http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVACritica.br" group-title="Abertos e generalistas",TV A Crítica
@@ -57,6 +57,7 @@ https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-id="TimesBrasil.br" group-title="Notícias",Times Brasil
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br" group-title="Notícias",Plena TV
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" group-title="Notícias",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br" group-title="Notícias",TV Zoom
