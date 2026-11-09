@@ -23,7 +23,9 @@
   "7:TV Brasil": {
     "last_good": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
-  "8:TV Brasil Oeste": {},
+  "8:TV Brasil Oeste": {
+    "last_good": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
   "9:TV Gazeta": {
     "last_good": "http://45.162.64.114/TV_GAZETA/index.m3u8"
   },
