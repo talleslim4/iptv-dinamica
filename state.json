@@ -1,7 +1,5 @@
 {
-  "0:RedeTV": {
-    "last_good": "http://45.162.64.114/REDE_TV/index.m3u8"
-  },
+  "0:RedeTV": {},
   "1:RedeTV Mais": {
     "last_good": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
   },
@@ -17,16 +15,10 @@
   "5:TV Bahia": {
     "last_good": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
   },
-  "6:TV Cultura": {
-    "last_good": "http://45.162.64.114/TV_CULTURA/index.m3u8"
-  },
-  "7:TV Brasil": {
-    "last_good": "http://45.162.64.114/TV_BRASIL/index.m3u8"
-  },
+  "6:TV Cultura": {},
+  "7:TV Brasil": {},
   "8:TV Brasil Oeste": {},
-  "9:TV Gazeta": {
-    "last_good": "http://45.162.64.114/TV_GAZETA/index.m3u8"
-  },
+  "9:TV Gazeta": {},
   "10:TV A Crítica": {
     "last_good": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
   },
@@ -59,9 +51,7 @@
   "21:RecordTV Interior SP": {
     "last_good": "http://200.77.176.130:8000/udp/224.0.0.4:49152"
   },
-  "22:TV Aparecida": {
-    "last_good": "http://45.162.64.114/TV_APARECIDA/index.m3u8"
-  },
+  "22:TV Aparecida": {},
   "23:Canal UOL": {
     "last_good": "https://video24.mais.uol.com.br/live/6146.m3u8"
   },
@@ -74,9 +64,7 @@
   "26:Jovem Pan News": {
     "last_good": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8"
   },
-  "27:Record News": {
-    "last_good": "http://45.162.64.114/RECORD_NEWS/index.m3u8"
-  },
+  "27:Record News": {},
   "28:SBT News": {
     "last_good": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8"
   },
@@ -139,44 +127,30 @@
   "63:Sony Channel": {
     "last_good": "http://170.83.16.50/SONY_CHANNEL/index.m3u8"
   },
-  "64:Sony Movies": {
-    "last_good": "http://45.162.64.114/SONY_MOVIES/index.m3u8"
-  },
+  "64:Sony Movies": {},
   "65:Studio Universal": {},
   "66:Telecine Action": {
     "last_good": "http://46.151.196.223:14326"
   },
-  "67:Canal Futura": {
-    "last_good": "http://45.162.64.114/FUTURA/index.m3u8"
-  },
+  "67:Canal Futura": {},
   "68:Futura": {
     "last_good": "http://170.83.49.66:8083/FUTURAHD/index.m3u8"
   },
-  "69:Arte 1": {
-    "last_good": "http://45.162.64.114/ARTE1/index.m3u8"
-  },
+  "69:Arte 1": {},
   "70:Tastemade Brasil": {},
-  "71:AgroMais": {
-    "last_good": "http://45.162.64.114/AGROMAIS/index.m3u8"
-  },
+  "71:AgroMais": {},
   "72:Canal Rural": {
     "last_good": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8"
   },
-  "73:Terra Viva": {
-    "last_good": "http://45.162.64.114/TERRAVIVA/index.m3u8"
-  },
+  "73:Terra Viva": {},
   "74:Amazon Sat": {
     "last_good": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
   },
   "75:TV Câmara": {
     "last_good": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
   },
-  "76:TV Senado": {
-    "last_good": "http://45.162.64.114/TV_SENADO/index.m3u8"
-  },
-  "77:TV Justiça": {
-    "last_good": "http://45.162.64.114/TV_JUSTICA/index.m3u8"
-  },
+  "76:TV Senado": {},
+  "77:TV Justiça": {},
   "78:TV UFOP": {
     "last_good": "https://app.tvufop.com.br/hls/tvufop.m3u8"
   },

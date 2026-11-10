@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T21:00:56+00:00",
+  "updated_at": "2026-11-10T03:24:58+00:00",
   "interval_minutes": 30,
   "source": "IPTV-org Brasil + fontes alternativas cadastradas pelo usuário",
   "upstream_error": null,
@@ -7,14 +7,14 @@
     {
       "name": "RedeTV",
       "tvg_id": "RedeTV.br",
-      "status": "online",
-      "selected_url": "http://45.162.64.114/REDE_TV/index.m3u8",
+      "status": "offline",
+      "selected_url": null,
       "candidates": [
         {
           "url": "http://45.162.64.114/REDE_TV/index.m3u8",
-          "ok": true,
-          "latency_ms": 556,
-          "detail": "OK"
+          "ok": false,
+          "latency_ms": null,
+          "detail": "<urlopen error [Errno 111] Connection refused>"
         }
       ]
     },
@@ -27,7 +27,7 @@
         {
           "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
           "ok": true,
-          "latency_ms": 282,
+          "latency_ms": 404,
           "detail": "OK"
         }
       ]
@@ -41,7 +41,7 @@
         {
           "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
           "ok": true,
-          "latency_ms": 60,
+          "latency_ms": 93,
           "detail": "OK"
         }
       ]
@@ -55,7 +55,7 @@
         {
           "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
           "ok": true,
-          "latency_ms": 863,
+          "latency_ms": 492,
           "detail": "OK"
         }
       ]
@@ -69,7 +69,7 @@
         {
           "url": "http://79.127.238.228:14173",
           "ok": true,
-          "latency_ms": 471,
+          "latency_ms": 476,
           "detail": "OK"
         }
       ]
@@ -83,7 +83,7 @@
         {
           "url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
           "ok": true,
-          "latency_ms": 477,
+          "latency_ms": 495,
           "detail": "OK"
         }
       ]
@@ -91,28 +91,28 @@
     {
       "name": "TV Cultura",
       "tvg_id": "TVCultura.br",
-      "status": "online",
-      "selected_url": "http://45.162.64.114/TV_CULTURA/index.m3u8",
+      "status": "offline",
+      "selected_url": null,
       "candidates": [
         {
           "url": "http://45.162.64.114/TV_CULTURA/index.m3u8",
-          "ok": true,
-          "latency_ms": 554,
-          "detail": "OK"
+          "ok": false,
+          "latency_ms": null,
+          "detail": "<urlopen error [Errno 111] Connection refused>"
         }
       ]
     },
     {
       "name": "TV Brasil",
       "tvg_id": "TVBrasil.br",
-      "status": "online",
-      "selected_url": "http://45.162.64.114/TV_BRASIL/index.m3u8",
+      "status": "offline",
+      "selected_url": null,
       "candidates": [
         {
           "url": "http://45.162.64.114/TV_BRASIL/index.m3u8",
-          "ok": true,
-          "latency_ms": 551,
-          "detail": "OK"
+          "ok": false,
+          "latency_ms": null,
+          "detail": "<urlopen error [Errno 111] Connection refused>"
         }
       ]
     },
@@ -133,14 +133,14 @@
     {
       "name": "TV Gazeta",
       "tvg_id": "TVGazeta.br",
-      "status": "online",
-      "selected_url": "http://45.162.64.114/TV_GAZETA/index.m3u8",
+      "status": "offline",
+      "selected_url": null,
       "candidates": [
         {
           "url": "http://45.162.64.114/TV_GAZETA/index.m3u8",
-          "ok": true,
-          "latency_ms": 550,
-          "detail": "OK"
+          "ok": false,
+          "latency_ms": null,
+          "detail": "<urlopen error [Errno 111] Connection refused>"
         }
       ]
     },
@@ -153,7 +153,7 @@
         {
           "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
           "ok": true,
-          "latency_ms": 324,
+          "latency_ms": 186,
           "detail": "OK"
         }
       ]
@@ -167,7 +167,7 @@
         {
           "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
           "ok": true,
-          "latency_ms": 498,
+          "latency_ms": 509,
           "detail": "OK"
         }
       ]
@@ -181,7 +181,7 @@
         {
           "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
           "ok": true,
-          "latency_ms": 1006,
+          "latency_ms": 1048,
           "detail": "OK"
         }
       ]
@@ -195,7 +195,7 @@
         {
           "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
           "ok": true,
-          "latency_ms": 557,
+          "latency_ms": 303,
           "detail": "OK"
         }
       ]
@@ -209,7 +209,7 @@
         {
           "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
           "ok": true,
-          "latency_ms": 1868,
+          "latency_ms": 1308,
           "detail": "OK"
         }
       ]
@@ -223,7 +223,7 @@
         {
           "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
           "ok": true,
-          "latency_ms": 1704,
+          "latency_ms": 1860,
           "detail": "OK"
         }
       ]
@@ -237,7 +237,7 @@
         {
           "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
           "ok": true,
-          "latency_ms": 1467,
+          "latency_ms": 1393,
           "detail": "OK"
         }
       ]
@@ -251,7 +251,7 @@
         {
           "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
           "ok": true,
-          "latency_ms": 1097,
+          "latency_ms": 1171,
           "detail": "OK"
         }
       ]
@@ -265,7 +265,7 @@
         {
           "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8",
           "ok": true,
-          "latency_ms": 1185,
+          "latency_ms": 1083,
           "detail": "OK"
         }
       ]
@@ -293,7 +293,7 @@
         {
           "url": "http://200.77.176.130:8000/udp/224.0.0.4:49152",
           "ok": true,
-          "latency_ms": 714,
+          "latency_ms": 728,
           "detail": "OK"
         }
       ]
@@ -301,14 +301,14 @@
     {
       "name": "TV Aparecida",
       "tvg_id": "TVAparecida.br",
-      "status": "online",
-      "selected_url": "http://45.162.64.114/TV_APARECIDA/index.m3u8",
+      "status": "offline",
+      "selected_url": null,
       "candidates": [
         {
           "url": "http://45.162.64.114/TV_APARECIDA/index.m3u8",
-          "ok": true,
-          "latency_ms": 552,
-          "detail": "OK"
+          "ok": false,
+          "latency_ms": null,
+          "detail": "<urlopen error [Errno 111] Connection refused>"
         }
       ]
     },
@@ -321,7 +321,7 @@
         {
           "url": "https://video24.mais.uol.com.br/live/6146.m3u8",
           "ok": true,
-          "latency_ms": 984,
+          "latency_ms": 934,
           "detail": "OK"
         }
       ]
@@ -335,7 +335,7 @@
         {
           "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
           "ok": true,
-          "latency_ms": 226,
+          "latency_ms": 121,
           "detail": "OK"
         }
       ]
@@ -349,7 +349,7 @@
         {
           "url": "http://79.127.238.228:14093",
           "ok": true,
-          "latency_ms": 468,
+          "latency_ms": 467,
           "detail": "OK"
         }
       ]
@@ -363,7 +363,7 @@
         {
           "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
           "ok": true,
-          "latency_ms": 594,
+          "latency_ms": 560,
           "detail": "OK"
         }
       ]
@@ -371,14 +371,14 @@
     {
       "name": "Record News",
       "tvg_id": "RecordNews.br",
-      "status": "online",
-      "selected_url": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
+      "status": "offline",
+      "selected_url": null,
       "candidates": [
         {
           "url": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
-          "ok": true,
-          "latency_ms": 552,
-          "detail": "OK"
+          "ok": false,
+          "latency_ms": null,
+          "detail": "<urlopen error [Errno 111] Connection refused>"
         }
       ]
     },
@@ -391,7 +391,7 @@
         {
           "url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8",
           "ok": true,
-          "latency_ms": 384,
+          "latency_ms": 578,
           "detail": "OK"
         }
       ]
@@ -419,7 +419,7 @@
         {
           "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8",
           "ok": true,
-          "latency_ms": 234,
+          "latency_ms": 364,
           "detail": "OK"
         }
       ]
@@ -433,7 +433,7 @@
         {
           "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
           "ok": true,
-          "latency_ms": 417,
+          "latency_ms": 878,
           "detail": "OK"
         }
       ]
@@ -447,7 +447,7 @@
         {
           "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
           "ok": true,
-          "latency_ms": 1715,
+          "latency_ms": 1476,
           "detail": "OK"
         }
       ]
@@ -461,7 +461,7 @@
         {
           "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
           "ok": true,
-          "latency_ms": 416,
+          "latency_ms": 993,
           "detail": "OK"
         }
       ]
@@ -475,7 +475,7 @@
         {
           "url": "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8",
           "ok": true,
-          "latency_ms": 167,
+          "latency_ms": 123,
           "detail": "OK"
         }
       ]
@@ -489,7 +489,7 @@
         {
           "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
           "ok": true,
-          "latency_ms": 335,
+          "latency_ms": 296,
           "detail": "OK"
         }
       ]
@@ -503,7 +503,7 @@
         {
           "url": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8",
           "ok": true,
-          "latency_ms": 1487,
+          "latency_ms": 493,
           "detail": "OK"
         }
       ]
@@ -517,7 +517,7 @@
         {
           "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
           "ok": true,
-          "latency_ms": 365,
+          "latency_ms": 387,
           "detail": "OK"
         }
       ]
@@ -531,7 +531,7 @@
         {
           "url": "http://181.78.197.59:8000/play/a07n/index.m3u8",
           "ok": true,
-          "latency_ms": 312,
+          "latency_ms": 370,
           "detail": "OK"
         }
       ]
@@ -552,7 +552,7 @@
         {
           "url": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8",
           "ok": true,
-          "latency_ms": 531,
+          "latency_ms": 751,
           "detail": "OK"
         }
       ]
@@ -580,7 +580,7 @@
         {
           "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
           "ok": true,
-          "latency_ms": 231,
+          "latency_ms": 167,
           "detail": "OK"
         }
       ]
@@ -832,7 +832,7 @@
         {
           "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
           "ok": true,
-          "latency_ms": 523,
+          "latency_ms": 498,
           "detail": "OK"
         }
       ]
@@ -840,14 +840,14 @@
     {
       "name": "Sony Movies",
       "tvg_id": "SonyMovies.br",
-      "status": "online",
-      "selected_url": "http://45.162.64.114/SONY_MOVIES/index.m3u8",
+      "status": "offline",
+      "selected_url": null,
       "candidates": [
         {
           "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8",
-          "ok": true,
-          "latency_ms": 555,
-          "detail": "OK"
+          "ok": false,
+          "latency_ms": null,
+          "detail": "<urlopen error [Errno 111] Connection refused>"
         }
       ]
     },
@@ -867,7 +867,7 @@
         {
           "url": "http://46.151.196.223:14326",
           "ok": true,
-          "latency_ms": 108,
+          "latency_ms": 77,
           "detail": "OK"
         }
       ]
@@ -875,14 +875,14 @@
     {
       "name": "Canal Futura",
       "tvg_id": "CanalFutura.br",
-      "status": "online",
-      "selected_url": "http://45.162.64.114/FUTURA/index.m3u8",
+      "status": "offline",
+      "selected_url": null,
       "candidates": [
         {
           "url": "http://45.162.64.114/FUTURA/index.m3u8",
-          "ok": true,
-          "latency_ms": 558,
-          "detail": "OK"
+          "ok": false,
+          "latency_ms": null,
+          "detail": "<urlopen error [Errno 111] Connection refused>"
         }
       ]
     },
@@ -895,7 +895,7 @@
         {
           "url": "http://170.83.49.66:8083/FUTURAHD/index.m3u8",
           "ok": true,
-          "latency_ms": 595,
+          "latency_ms": 558,
           "detail": "OK"
         }
       ]
@@ -903,14 +903,14 @@
     {
       "name": "Arte 1",
       "tvg_id": "Arte1.br",
-      "status": "online",
-      "selected_url": "http://45.162.64.114/ARTE1/index.m3u8",
+      "status": "offline",
+      "selected_url": null,
       "candidates": [
         {
           "url": "http://45.162.64.114/ARTE1/index.m3u8",
-          "ok": true,
-          "latency_ms": 552,
-          "detail": "OK"
+          "ok": false,
+          "latency_ms": null,
+          "detail": "<urlopen error [Errno 111] Connection refused>"
         }
       ]
     },
@@ -931,14 +931,14 @@
     {
       "name": "AgroMais",
       "tvg_id": "AgroMais.br",
-      "status": "online",
-      "selected_url": "http://45.162.64.114/AGROMAIS/index.m3u8",
+      "status": "offline",
+      "selected_url": null,
       "candidates": [
         {
           "url": "http://45.162.64.114/AGROMAIS/index.m3u8",
-          "ok": true,
-          "latency_ms": 554,
-          "detail": "OK"
+          "ok": false,
+          "latency_ms": null,
+          "detail": "<urlopen error [Errno 111] Connection refused>"
         }
       ]
     },
@@ -951,7 +951,7 @@
         {
           "url": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8",
           "ok": true,
-          "latency_ms": 589,
+          "latency_ms": 565,
           "detail": "OK"
         }
       ]
@@ -959,14 +959,14 @@
     {
       "name": "Terra Viva",
       "tvg_id": "TerraViva.br",
-      "status": "online",
-      "selected_url": "http://45.162.64.114/TERRAVIVA/index.m3u8",
+      "status": "offline",
+      "selected_url": null,
       "candidates": [
         {
           "url": "http://45.162.64.114/TERRAVIVA/index.m3u8",
-          "ok": true,
-          "latency_ms": 552,
-          "detail": "OK"
+          "ok": false,
+          "latency_ms": null,
+          "detail": "<urlopen error [Errno 111] Connection refused>"
         }
       ]
     },
@@ -979,7 +979,7 @@
         {
           "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
           "ok": true,
-          "latency_ms": 1022,
+          "latency_ms": 1099,
           "detail": "OK"
         }
       ]
@@ -993,7 +993,7 @@
         {
           "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
           "ok": true,
-          "latency_ms": 1969,
+          "latency_ms": 2067,
           "detail": "OK"
         }
       ]
@@ -1001,28 +1001,28 @@
     {
       "name": "TV Senado",
       "tvg_id": "TVSenado.br",
-      "status": "online",
-      "selected_url": "http://45.162.64.114/TV_SENADO/index.m3u8",
+      "status": "offline",
+      "selected_url": null,
       "candidates": [
         {
           "url": "http://45.162.64.114/TV_SENADO/index.m3u8",
-          "ok": true,
-          "latency_ms": 553,
-          "detail": "OK"
+          "ok": false,
+          "latency_ms": null,
+          "detail": "<urlopen error [Errno 111] Connection refused>"
         }
       ]
     },
     {
       "name": "TV Justiça",
       "tvg_id": "TVJustica.br",
-      "status": "online",
-      "selected_url": "http://45.162.64.114/TV_JUSTICA/index.m3u8",
+      "status": "offline",
+      "selected_url": null,
       "candidates": [
         {
           "url": "http://45.162.64.114/TV_JUSTICA/index.m3u8",
-          "ok": true,
-          "latency_ms": 549,
-          "detail": "OK"
+          "ok": false,
+          "latency_ms": null,
+          "detail": "<urlopen error [Errno 111] Connection refused>"
         }
       ]
     },
@@ -1035,7 +1035,7 @@
         {
           "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
           "ok": true,
-          "latency_ms": 1098,
+          "latency_ms": 1383,
           "detail": "OK"
         }
       ]
