@@ -75,6 +75,7 @@ http://181.78.197.59:8000/play/a07n/index.m3u8
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TurmaDaMonica.br" group-title="Infantil",Turma da Mônica
 #EXTINF:-1 tvg-id="Nickelodeon.br" group-title="Infantil",Nickelodeon
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClassico.br" group-title="Infantil",Nickelodeon Clássico
 #EXTINF:-1 tvg-id="NickelodeonTeen.br" group-title="Infantil",Nickelodeon Teen
 #EXTINF:-1 tvg-id="CartoonNetwork.br" group-title="Infantil",Cartoon Network

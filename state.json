@@ -107,7 +107,9 @@
     "last_good": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8"
   },
   "41:Turma da Mônica": {},
-  "42:Nickelodeon": {},
+  "42:Nickelodeon": {
+    "last_good": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
+  },
   "43:Nickelodeon Clássico": {},
   "44:Nickelodeon Teen": {},
   "45:Cartoon Network": {},
