@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RedeTV.br" group-title="Abertos e generalistas",RedeTV
+http://170.83.16.50/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVMais.br" group-title="Abertos e generalistas",RedeTV Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT.br" group-title="Abertos e generalistas",SBT Nacional
@@ -14,6 +15,7 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" group-title="Abertos e generalistas",TV Brasil
 #EXTINF:-1 tvg-id="TVBrasilOeste.br" group-title="Abertos e generalistas",TV Brasil Oeste
 #EXTINF:-1 tvg-id="TVGazeta.br" group-title="Abertos e generalistas",TV Gazeta
+http://186.219.52.187/gazeta/index.m3u8
 #EXTINF:-1 tvg-id="TVACritica.br" group-title="Abertos e generalistas",TV A Crítica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVArapuan.br" group-title="Abertos e generalistas",TV Arapuan
@@ -100,6 +102,7 @@ http://170.83.16.50/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="TelecineAction.br" group-title="Filmes e séries",Telecine Action
 http://46.151.196.223:14326
 #EXTINF:-1 tvg-id="CanalFutura.br" group-title="Cultura e documentários",Canal Futura
+http://170.83.16.50/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="Futura.br" group-title="Cultura e documentários",Futura
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="Arte1.br" group-title="Cultura e documentários",Arte 1
@@ -113,7 +116,9 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Cultura e documentários",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br" group-title="Cultura e documentários",TV Senado
+http://170.83.16.50/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br" group-title="Cultura e documentários",TV Justiça
+http://170.83.16.50/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="TVUFOP.br" group-title="Cultura e documentários",TV UFOP
 https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="TVRioSul.br" group-title="Abertos e generalistas",TV Rio Sul HD

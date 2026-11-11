@@ -1,5 +1,7 @@
 {
-  "0:RedeTV": {},
+  "0:RedeTV": {
+    "last_good": "http://170.83.16.50/REDE_TV/index.m3u8"
+  },
   "1:RedeTV Mais": {
     "last_good": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
   },
@@ -18,7 +20,9 @@
   "6:TV Cultura": {},
   "7:TV Brasil": {},
   "8:TV Brasil Oeste": {},
-  "9:TV Gazeta": {},
+  "9:TV Gazeta": {
+    "last_good": "http://186.219.52.187/gazeta/index.m3u8"
+  },
   "10:TV A Crítica": {
     "last_good": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
   },
@@ -132,7 +136,9 @@
   "66:Telecine Action": {
     "last_good": "http://46.151.196.223:14326"
   },
-  "67:Canal Futura": {},
+  "67:Canal Futura": {
+    "last_good": "http://170.83.16.50/FUTURA/index.m3u8"
+  },
   "68:Futura": {
     "last_good": "http://170.83.49.66:8083/FUTURAHD/index.m3u8"
   },
@@ -149,8 +155,12 @@
   "75:TV Câmara": {
     "last_good": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
   },
-  "76:TV Senado": {},
-  "77:TV Justiça": {},
+  "76:TV Senado": {
+    "last_good": "http://170.83.16.50/TV_SENADO/index.m3u8"
+  },
+  "77:TV Justiça": {
+    "last_good": "http://170.83.16.50/TV_JUSTICA/index.m3u8"
+  },
   "78:TV UFOP": {
     "last_good": "https://app.tvufop.com.br/hls/tvufop.m3u8"
   },
