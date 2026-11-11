@@ -14,7 +14,6 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" group-title="Abertos e generalistas",TV Cultura
 #EXTINF:-1 tvg-id="TVBrasil.br" group-title="Abertos e generalistas",TV Brasil
 #EXTINF:-1 tvg-id="TVBrasilOeste.br" group-title="Abertos e generalistas",TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" group-title="Abertos e generalistas",TV Gazeta
 http://186.219.52.187/gazeta/index.m3u8
 #EXTINF:-1 tvg-id="TVACritica.br" group-title="Abertos e generalistas",TV A Crítica
@@ -32,7 +31,6 @@ https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br" group-title="Abertos e generalistas",Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" group-title="Abertos e generalistas",Rede Brasil
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeMeioNorte.br" group-title="Abertos e generalistas",Rede Meio Norte
 https://maystreaming.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNT.br" group-title="Abertos e generalistas",Rede CNT RJ
