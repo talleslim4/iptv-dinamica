@@ -35,8 +35,12 @@
   "13:TV Clube": {
     "last_good": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8"
   },
-  "14:TVE Bahia": {},
-  "15:TVE RS": {},
+  "14:TVE Bahia": {
+    "last_good": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
+  },
+  "15:TVE RS": {
+    "last_good": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+  },
   "16:Rede Minas": {
     "last_good": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
   },
@@ -90,12 +94,8 @@
   "36:CazéTV": {
     "last_good": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8"
   },
-  "37:ESPN": {
-    "last_good": "http://181.78.197.59:8000/play/a07z/index.m3u8"
-  },
-  "38:ESPN 4": {
-    "last_good": "http://181.78.197.59:8000/play/a07n/index.m3u8"
-  },
+  "37:ESPN": {},
+  "38:ESPN 4": {},
   "39:FIFA+": {},
   "40:Red Bull TV": {
     "last_good": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8"
