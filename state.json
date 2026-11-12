@@ -44,7 +44,9 @@
   "16:Rede Minas": {
     "last_good": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
   },
-  "17:Rede Brasil": {},
+  "17:Rede Brasil": {
+    "last_good": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
+  },
   "18:Rede Meio Norte": {
     "last_good": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
   },
