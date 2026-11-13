@@ -26,9 +26,7 @@ https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.
 #EXTINF:-1 tvg-id="TVClube.br" group-title="Abertos e generalistas",TV Clube
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEBahia.br" group-title="Abertos e generalistas",TVE Bahia
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVERS.br" group-title="Abertos e generalistas",TVE RS
-https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br" group-title="Abertos e generalistas",Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" group-title="Abertos e generalistas",Rede Brasil
