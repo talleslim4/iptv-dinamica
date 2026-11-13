@@ -14,10 +14,14 @@
   "4:TV Globo Brasília": {
     "last_good": "http://79.127.238.228:14173"
   },
-  "5:TV Bahia": {},
+  "5:TV Bahia": {
+    "last_good": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
+  },
   "6:TV Cultura": {},
   "7:TV Brasil": {},
-  "8:TV Brasil Oeste": {},
+  "8:TV Brasil Oeste": {
+    "last_good": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
   "9:TV Gazeta": {
     "last_good": "http://186.219.52.187/gazeta/index.m3u8"
   },
