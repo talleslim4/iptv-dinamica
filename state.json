@@ -14,9 +14,7 @@
   "4:TV Globo Brasília": {
     "last_good": "http://79.127.238.228:14173"
   },
-  "5:TV Bahia": {
-    "last_good": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
-  },
+  "5:TV Bahia": {},
   "6:TV Cultura": {},
   "7:TV Brasil": {},
   "8:TV Brasil Oeste": {},
@@ -91,11 +89,13 @@
   "35:STZ TV": {
     "last_good": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
   },
-  "36:CazéTV": {
-    "last_good": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8"
+  "36:CazéTV": {},
+  "37:ESPN": {
+    "last_good": "http://181.78.197.59:8000/play/a07z/index.m3u8"
   },
-  "37:ESPN": {},
-  "38:ESPN 4": {},
+  "38:ESPN 4": {
+    "last_good": "http://181.78.197.59:8000/play/a07n/index.m3u8"
+  },
   "39:FIFA+": {},
   "40:Red Bull TV": {
     "last_good": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8"
