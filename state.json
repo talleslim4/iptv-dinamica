@@ -19,7 +19,9 @@
   },
   "6:TV Cultura": {},
   "7:TV Brasil": {},
-  "8:TV Brasil Oeste": {},
+  "8:TV Brasil Oeste": {
+    "last_good": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
   "9:TV Gazeta": {
     "last_good": "http://186.219.52.187/gazeta/index.m3u8"
   },
@@ -35,12 +37,8 @@
   "13:TV Clube": {
     "last_good": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8"
   },
-  "14:TVE Bahia": {
-    "last_good": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
-  },
-  "15:TVE RS": {
-    "last_good": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
-  },
+  "14:TVE Bahia": {},
+  "15:TVE RS": {},
   "16:Rede Minas": {
     "last_good": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
   },
