@@ -19,7 +19,6 @@ http://186.219.52.187/gazeta/index.m3u8
 #EXTINF:-1 tvg-id="TVACritica.br" group-title="Abertos e generalistas",TV A Crítica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVArapuan.br" group-title="Abertos e generalistas",TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br" group-title="Abertos e generalistas",TV Cidade Verde
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-id="TVClube.br" group-title="Abertos e generalistas",TV Clube
