@@ -21,7 +21,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVArapuan.br" group-title="Abertos e generalistas",TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br" group-title="Abertos e generalistas",TV Cidade Verde
-https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-id="TVClube.br" group-title="Abertos e generalistas",TV Clube
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEBahia.br" group-title="Abertos e generalistas",TVE Bahia
@@ -56,6 +55,7 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd749
 #EXTINF:-1 tvg-id="PlenaTV.br" group-title="Notícias",Plena TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" group-title="Notícias",TV Brusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br" group-title="Notícias",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="VEJAPlusTV.br" group-title="Notícias",VEJA+ TV
@@ -112,7 +112,9 @@ http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br" group-title="Cultura e documentários",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Cultura e documentários",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br" group-title="Cultura e documentários",TV Senado
+http://170.83.16.50/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br" group-title="Cultura e documentários",TV Justiça
 http://170.83.16.50/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="TVUFOP.br" group-title="Cultura e documentários",TV UFOP
