@@ -4,10 +4,12 @@ http://170.83.16.50/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVMais.br" group-title="Abertos e generalistas",RedeTV Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT.br" group-title="Abertos e generalistas",SBT Nacional
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="SBT.br" group-title="Abertos e generalistas",SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGloboBrasilia.br" group-title="Abertos e generalistas",TV Globo Brasília
+http://79.127.238.228:14173
 #EXTINF:-1 tvg-id="TVBahia.br" group-title="Abertos e generalistas",TV Bahia
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" group-title="Abertos e generalistas",TV Cultura
 #EXTINF:-1 tvg-id="TVBrasil.br" group-title="Abertos e generalistas",TV Brasil
 #EXTINF:-1 tvg-id="TVBrasilOeste.br" group-title="Abertos e generalistas",TV Brasil Oeste
@@ -17,6 +19,7 @@ http://186.219.52.187/gazeta/index.m3u8
 #EXTINF:-1 tvg-id="TVACritica.br" group-title="Abertos e generalistas",TV A Crítica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVArapuan.br" group-title="Abertos e generalistas",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br" group-title="Abertos e generalistas",TV Cidade Verde
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-id="TVClube.br" group-title="Abertos e generalistas",TV Clube
@@ -43,6 +46,7 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br" group-title="Notícias",GloboNews
 http://79.127.238.228:14093
 #EXTINF:-1 tvg-id="JovemPanNews.br" group-title="Notícias",Jovem Pan News
+http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" group-title="Notícias",Record News
 #EXTINF:-1 tvg-id="SBTNews.br" group-title="Notícias",SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
