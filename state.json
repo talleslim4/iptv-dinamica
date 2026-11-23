@@ -5,21 +5,17 @@
   "1:RedeTV Mais": {
     "last_good": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
   },
-  "2:SBT Nacional": {
-    "last_good": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
-  },
-  "3:SBT Interior": {
-    "last_good": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
-  },
-  "4:TV Globo Brasília": {
-    "last_good": "http://79.127.238.228:14173"
-  },
+  "2:SBT Nacional": {},
+  "3:SBT Interior": {},
+  "4:TV Globo Brasília": {},
   "5:TV Bahia": {
     "last_good": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
   },
   "6:TV Cultura": {},
   "7:TV Brasil": {},
-  "8:TV Brasil Oeste": {},
+  "8:TV Brasil Oeste": {
+    "last_good": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
   "9:TV Gazeta": {
     "last_good": "http://186.219.52.187/gazeta/index.m3u8"
   },
