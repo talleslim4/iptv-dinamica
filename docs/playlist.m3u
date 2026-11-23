@@ -4,6 +4,7 @@ http://170.83.16.50/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVMais.br" group-title="Abertos e generalistas",RedeTV Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT.br" group-title="Abertos e generalistas",SBT Nacional
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="SBT.br" group-title="Abertos e generalistas",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGloboBrasilia.br" group-title="Abertos e generalistas",TV Globo Brasília

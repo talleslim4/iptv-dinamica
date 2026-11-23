@@ -5,7 +5,9 @@
   "1:RedeTV Mais": {
     "last_good": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
   },
-  "2:SBT Nacional": {},
+  "2:SBT Nacional": {
+    "last_good": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
+  },
   "3:SBT Interior": {
     "last_good": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
   },

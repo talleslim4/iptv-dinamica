@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T21:01:55+00:00",
+  "updated_at": "2026-11-23T01:34:49+00:00",
   "interval_minutes": 30,
   "source": "IPTV-org Brasil + fontes alternativas cadastradas pelo usuário",
   "upstream_error": null,
@@ -13,7 +13,7 @@
         {
           "url": "http://170.83.16.50/REDE_TV/index.m3u8",
           "ok": true,
-          "latency_ms": 641,
+          "latency_ms": 745,
           "detail": "OK"
         }
       ]
@@ -27,7 +27,7 @@
         {
           "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
           "ok": true,
-          "latency_ms": 272,
+          "latency_ms": 739,
           "detail": "OK"
         }
       ]
@@ -35,14 +35,14 @@
     {
       "name": "SBT Nacional",
       "tvg_id": "SBT.br",
-      "status": "offline",
-      "selected_url": null,
+      "status": "online",
+      "selected_url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
       "candidates": [
         {
           "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-          "ok": false,
-          "latency_ms": null,
-          "detail": "HTTP 404"
+          "ok": true,
+          "latency_ms": 218,
+          "detail": "OK"
         }
       ]
     },
@@ -55,7 +55,7 @@
         {
           "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
           "ok": true,
-          "latency_ms": 1244,
+          "latency_ms": 1590,
           "detail": "OK"
         }
       ]
@@ -69,7 +69,7 @@
         {
           "url": "http://79.127.238.228:14173",
           "ok": true,
-          "latency_ms": 581,
+          "latency_ms": 670,
           "detail": "OK"
         }
       ]
@@ -83,7 +83,7 @@
         {
           "url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
           "ok": true,
-          "latency_ms": 632,
+          "latency_ms": 704,
           "detail": "OK"
         }
       ]
@@ -139,7 +139,7 @@
         {
           "url": "http://186.219.52.187/gazeta/index.m3u8",
           "ok": true,
-          "latency_ms": 618,
+          "latency_ms": 727,
           "detail": "OK"
         }
       ]
@@ -153,7 +153,7 @@
         {
           "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
           "ok": true,
-          "latency_ms": 502,
+          "latency_ms": 711,
           "detail": "OK"
         }
       ]
@@ -181,7 +181,7 @@
         {
           "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
           "ok": true,
-          "latency_ms": 1617,
+          "latency_ms": 2056,
           "detail": "OK"
         }
       ]
@@ -195,7 +195,7 @@
         {
           "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
           "ok": true,
-          "latency_ms": 566,
+          "latency_ms": 895,
           "detail": "OK"
         }
       ]
@@ -209,7 +209,7 @@
         {
           "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
           "ok": true,
-          "latency_ms": 1930,
+          "latency_ms": 2433,
           "detail": "OK"
         }
       ]
@@ -223,7 +223,7 @@
         {
           "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
           "ok": true,
-          "latency_ms": 2569,
+          "latency_ms": 2393,
           "detail": "OK"
         }
       ]
@@ -237,7 +237,7 @@
         {
           "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
           "ok": true,
-          "latency_ms": 1715,
+          "latency_ms": 2092,
           "detail": "OK"
         }
       ]
@@ -251,7 +251,7 @@
         {
           "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
           "ok": true,
-          "latency_ms": 1037,
+          "latency_ms": 1417,
           "detail": "OK"
         }
       ]
@@ -265,7 +265,7 @@
         {
           "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8",
           "ok": true,
-          "latency_ms": 1216,
+          "latency_ms": 1575,
           "detail": "OK"
         }
       ]
@@ -293,7 +293,7 @@
         {
           "url": "http://200.77.176.130:8000/udp/224.0.0.4:49152",
           "ok": true,
-          "latency_ms": 824,
+          "latency_ms": 961,
           "detail": "OK"
         }
       ]
@@ -321,7 +321,7 @@
         {
           "url": "https://video24.mais.uol.com.br/live/6146.m3u8",
           "ok": true,
-          "latency_ms": 1708,
+          "latency_ms": 1446,
           "detail": "OK"
         }
       ]
@@ -335,7 +335,7 @@
         {
           "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
           "ok": true,
-          "latency_ms": 309,
+          "latency_ms": 600,
           "detail": "OK"
         }
       ]
@@ -349,7 +349,7 @@
         {
           "url": "http://79.127.238.228:14093",
           "ok": true,
-          "latency_ms": 550,
+          "latency_ms": 674,
           "detail": "OK"
         }
       ]
@@ -391,7 +391,7 @@
         {
           "url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8",
           "ok": true,
-          "latency_ms": 775,
+          "latency_ms": 1040,
           "detail": "OK"
         }
       ]
@@ -419,7 +419,7 @@
         {
           "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8",
           "ok": true,
-          "latency_ms": 330,
+          "latency_ms": 387,
           "detail": "OK"
         }
       ]
@@ -433,7 +433,7 @@
         {
           "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
           "ok": true,
-          "latency_ms": 1419,
+          "latency_ms": 1728,
           "detail": "OK"
         }
       ]
@@ -447,7 +447,7 @@
         {
           "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
           "ok": true,
-          "latency_ms": 1894,
+          "latency_ms": 2301,
           "detail": "OK"
         }
       ]
@@ -461,7 +461,7 @@
         {
           "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
           "ok": true,
-          "latency_ms": 1258,
+          "latency_ms": 751,
           "detail": "OK"
         }
       ]
@@ -475,7 +475,7 @@
         {
           "url": "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8",
           "ok": true,
-          "latency_ms": 302,
+          "latency_ms": 231,
           "detail": "OK"
         }
       ]
@@ -489,7 +489,7 @@
         {
           "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
           "ok": true,
-          "latency_ms": 385,
+          "latency_ms": 553,
           "detail": "OK"
         }
       ]
@@ -510,7 +510,7 @@
         {
           "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
           "ok": true,
-          "latency_ms": 484,
+          "latency_ms": 561,
           "detail": "OK"
         }
       ]
@@ -524,7 +524,7 @@
         {
           "url": "http://181.78.197.59:8000/play/a07n/index.m3u8",
           "ok": true,
-          "latency_ms": 514,
+          "latency_ms": 535,
           "detail": "OK"
         }
       ]
@@ -545,7 +545,7 @@
         {
           "url": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8",
           "ok": true,
-          "latency_ms": 562,
+          "latency_ms": 308,
           "detail": "OK"
         }
       ]
@@ -573,7 +573,7 @@
         {
           "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
           "ok": true,
-          "latency_ms": 328,
+          "latency_ms": 542,
           "detail": "OK"
         }
       ]
@@ -825,7 +825,7 @@
         {
           "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
           "ok": true,
-          "latency_ms": 656,
+          "latency_ms": 743,
           "detail": "OK"
         }
       ]
@@ -860,7 +860,7 @@
         {
           "url": "http://46.151.196.223:14326",
           "ok": true,
-          "latency_ms": 101,
+          "latency_ms": 195,
           "detail": "OK"
         }
       ]
@@ -874,7 +874,7 @@
         {
           "url": "http://170.83.16.50/FUTURA/index.m3u8",
           "ok": true,
-          "latency_ms": 644,
+          "latency_ms": 744,
           "detail": "OK"
         }
       ]
@@ -888,7 +888,7 @@
         {
           "url": "http://170.83.49.66:8083/FUTURAHD/index.m3u8",
           "ok": true,
-          "latency_ms": 682,
+          "latency_ms": 824,
           "detail": "OK"
         }
       ]
@@ -972,7 +972,7 @@
         {
           "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
           "ok": true,
-          "latency_ms": 1634,
+          "latency_ms": 1566,
           "detail": "OK"
         }
       ]
@@ -986,7 +986,7 @@
         {
           "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
           "ok": true,
-          "latency_ms": 2191,
+          "latency_ms": 5011,
           "detail": "OK"
         }
       ]
@@ -1000,7 +1000,7 @@
         {
           "url": "http://170.83.16.50/TV_SENADO/index.m3u8",
           "ok": true,
-          "latency_ms": 631,
+          "latency_ms": 740,
           "detail": "OK"
         }
       ]
@@ -1014,7 +1014,7 @@
         {
           "url": "http://170.83.16.50/TV_JUSTICA/index.m3u8",
           "ok": true,
-          "latency_ms": 632,
+          "latency_ms": 745,
           "detail": "OK"
         }
       ]
@@ -1028,7 +1028,7 @@
         {
           "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
           "ok": true,
-          "latency_ms": 1413,
+          "latency_ms": 1756,
           "detail": "OK"
         }
       ]
