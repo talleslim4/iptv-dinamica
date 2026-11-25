@@ -19,7 +19,9 @@
   },
   "6:TV Cultura": {},
   "7:TV Brasil": {},
-  "8:TV Brasil Oeste": {},
+  "8:TV Brasil Oeste": {
+    "last_good": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
   "9:TV Gazeta": {
     "last_good": "http://186.219.52.187/gazeta/index.m3u8"
   },
@@ -44,9 +46,7 @@
   "16:Rede Minas": {
     "last_good": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
   },
-  "17:Rede Brasil": {
-    "last_good": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
-  },
+  "17:Rede Brasil": {},
   "18:Rede Meio Norte": {
     "last_good": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
   },
@@ -65,7 +65,9 @@
   "25:GloboNews": {
     "last_good": "http://79.127.238.228:14093"
   },
-  "26:Jovem Pan News": {},
+  "26:Jovem Pan News": {
+    "last_good": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8"
+  },
   "27:Record News": {},
   "28:SBT News": {
     "last_good": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8"
@@ -74,7 +76,9 @@
   "30:Times Brasil": {
     "last_good": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
   },
-  "31:Plena TV": {},
+  "31:Plena TV": {
+    "last_good": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
+  },
   "32:TV Brusque": {
     "last_good": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
   },
@@ -133,11 +137,15 @@
   "67:Canal Futura": {
     "last_good": "http://170.83.16.50/FUTURA/index.m3u8"
   },
-  "68:Futura": {},
+  "68:Futura": {
+    "last_good": "http://170.83.49.66:8083/FUTURAHD/index.m3u8"
+  },
   "69:Arte 1": {},
   "70:Tastemade Brasil": {},
   "71:AgroMais": {},
-  "72:Canal Rural": {},
+  "72:Canal Rural": {
+    "last_good": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8"
+  },
   "73:Terra Viva": {},
   "74:Amazon Sat": {
     "last_good": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
